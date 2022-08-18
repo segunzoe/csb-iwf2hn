@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://segunzoe.github.io/csb-iwf2hn/static/js/main.587053b8.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-iwf2hn/static/js/main.587053b8.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-iwf2hn/static/js/runtime-main.9841dc26.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-iwf2hn/static/js/runtime-main.9841dc26.js.map",
+    "static/js/2.0e27b004.chunk.js": "https://segunzoe.github.io/csb-iwf2hn/static/js/2.0e27b004.chunk.js",
+    "static/js/2.0e27b004.chunk.js.map": "https://segunzoe.github.io/csb-iwf2hn/static/js/2.0e27b004.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-iwf2hn/index.html",
+    "precache-manifest.3b12064cac5de65ccfff902c3896111f.js": "https://segunzoe.github.io/csb-iwf2hn/precache-manifest.3b12064cac5de65ccfff902c3896111f.js",
+    "service-worker.js": "https://segunzoe.github.io/csb-iwf2hn/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9841dc26.js",
+    "static/js/2.0e27b004.chunk.js",
+    "static/js/main.587053b8.chunk.js"
+  ]
+}
